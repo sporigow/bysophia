@@ -2749,11 +2749,42 @@ div.apainting1 {
   grid-row-gap: 30px;
   grid-column-gap: 30px;
 
- } 
+ }
+
+
+ .oilPaintings p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 18px;
+ }
+
+ .waterColors p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 18px;
+ }
+
+ .infographics p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 18px;
+ }
+
+ .cap1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 18px;
+ }
+
+ .digidesigns p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 18px;
+ }
 
  .Politicalillustrate img{
   max-width: 100%;
   height: auto;
+ }
+
+.Politicalillustrate p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 18px;
  }
 
 .book1a img{
