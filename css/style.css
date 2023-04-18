@@ -1929,7 +1929,8 @@ div.myworkclass a:nth-child(2){
   border: 5px white solid;
   
  }
-  div.myworkclass img:hover, img:focus{
+ /* , img:focus */
+  div.myworkclass img:hover{
   border: 5px rgb(238, 238, 23) solid;
   outline: 2px dotted rgb(73, 73, 36);
  } 
@@ -1938,7 +1939,40 @@ div.myworkclass a:nth-child(2){
   font-size: 20px;
  }
 
+ .slide_img1:focus{
+  border: 5px rgb(238, 238, 23) solid ;
+  background-color: rgb(238, 238, 23);
+ }
 
+ .slide_img2:focus{
+  border: 5px rgb(238, 238, 23) solid ;
+  background-color: rgb(238, 238, 23);
+ }
+
+ .slide_img7:focus{
+  border: 5px rgb(238, 238, 23) solid ;
+  background-color: rgb(238, 238, 23);
+ }
+ 
+ .slide_img6:focus{
+  border: 5px rgb(238, 238, 23) solid ;
+  background-color: rgb(238, 238, 23);
+ }
+
+ .slide_img3:focus{
+  border: 5px rgb(238, 238, 23) solid ;
+  background-color: rgb(238, 238, 23);
+ }
+
+ .slide_img4:focus{
+  border: 5px rgb(238, 238, 23) solid ;
+  background-color: rgb(238, 238, 23);
+ }
+
+ .slide_img5:focus{
+  border: 5px rgb(238, 238, 23) solid ;
+  background-color: rgb(238, 238, 23);
+ }
 
 /* next section-- other screen sizes*/
 
