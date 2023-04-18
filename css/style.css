@@ -24,7 +24,15 @@
   z-index: 1;
  }
 
- .skip a:hover, a:focus{
+ .skip a:hover{
+  color:black;
+  text-decoration: underline black;
+  text-decoration-style: none;
+  border: black solid;
+  background-color: lightgoldenrodyellow;
+}
+
+ .skip a:focus{
   color:black;
   text-decoration: underline black;
   text-decoration-style: none;
