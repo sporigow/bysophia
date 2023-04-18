@@ -111,13 +111,13 @@ div.nav_item1 a{
 }
 .nav_item1 #active2 {
   font-weight:bold;
-  background-color: lightgoldenrodyellow;
+  background-color: bisque;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 5px;
   padding-bottom: 10px;
   border-radius: 20px;
-  border: 3px solid lightgoldenrodyellow;
+  border: 3px solid bisque;
   /* pointer-events: none; */
   cursor: default;
 }
@@ -185,13 +185,13 @@ a:link, a:visited{
   }
   .nav_links #active2 {
     font-weight:bold;
-    background-color: lightgoldenrodyellow;
+    background-color: bisque;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 5px;
     padding-bottom: 10px;
     border-radius: 20px;
-    border: 3px solid lightgoldenrodyellow;
+    border: 3px solid bisque;
     /* pointer-events: none; */
     cursor: default;
     text-align: left;
@@ -242,13 +242,13 @@ a:link, a:visited{
     
     .lefties #active2 {
       font-weight:bold;
-      background-color: lightgoldenrodyellow;
+      background-color: bisque;
       padding-top: 10px;
       padding-bottom: 10px;
       padding-left: 0px;
       padding-bottom: 10px;
       border-radius: 20px;
-      border: 3px solid lightgoldenrodyellow;
+      border: 3px solid bisque;
       /* pointer-events: none; */
       cursor: default;
     }
@@ -313,13 +313,13 @@ a:link, a:visited{
       }
       .nav_links #active2 {
         font-weight:bold;
-        background-color: lightgoldenrodyellow;
+        background-color: bisque;
         padding-top: 10px;
         padding-bottom: 10px;
         padding-left: 5px;
         padding-bottom: 10px;
         border-radius: 20px;
-        border: 3px solid lightgoldenrodyellow;
+        border: 3px solid bisque;
         /* pointer-events: none; */
         cursor: default;
       }
@@ -395,8 +395,10 @@ a:link, a:visited{
   }
   
   .dropdown-content a:hover {
-    background-color: bisque;
+    background-color: lightgoldenrodyellow;
+    font-weight: bold;
   }
+  
   
   .dropdown:hover .dropdown-content {
     display: block;
@@ -1927,7 +1929,7 @@ div.myworkclass a:nth-child(2){
   border: 5px white solid;
   
  }
-  div.myworkclass a img:hover, img:focus{
+  div.myworkclass a, img:hover, img:focus{
   border: 5px rgb(238, 238, 23) solid;
   outline: 2px dotted rgb(73, 73, 36);
  } 
