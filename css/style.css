@@ -1927,10 +1927,10 @@ div.myworkclass a:nth-child(2){
   border: 5px white solid;
   
  }
- /* div.myworkclass a img:hover, img:focus{
+  div.myworkclass a img:hover, img:focus{
   border: 5px rgb(238, 238, 23) solid;
   outline: 2px dotted rgb(73, 73, 36);
- } */
+ } 
 
  div.myworkclass h2{
   font-size: 20px;
